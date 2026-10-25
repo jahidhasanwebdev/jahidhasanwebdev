@@ -6,13 +6,18 @@
   <br />
 
   <a href="https://github.com/jahidhasanwebdev">
-    <img src="https://img.shields.io/badge/GitHub-jahidhasanwebdev-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://x.com/jahidhasandev">
-    <img src="https://img.shields.io/badge/X-@jahidhasandev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Experience-4%20Years-0D9488?style=for-the-badge&logo=clockify&logoColor=white" alt="4 years of experience" />
+  <img src="https://img.shields.io/badge/GitHub-jahidhasanwebdev-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
 
+<a href="https://www.linkedin.com/in/jahidhasanwebdev/">
+  <img src="https://img.shields.io/badge/LinkedIn-jahidhasanwebdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+
+<a href="https://x.com/jahidhasandev">
+  <img src="https://img.shields.io/badge/X-@jahidhasandev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
+</a>
+
+<img src="https://img.shields.io/badge/Experience-4%20Years-0D9488?style=for-the-badge&logo=clockify&logoColor=white" alt="4 years of experience" />
   <br />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Web+Developer;WordPress+Developer;Frontend+%26+PHP+Developer;Turning+Ideas+into+Web+Experiences" alt="Animated role descriptions" />
@@ -94,11 +99,18 @@ I'm preparing this profile to showcase selected work. Check my repositories for 
 
 <div align="center">
   <a href="https://github.com/jahidhasanwebdev">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://x.com/jahidhasandev">
-    <img src="https://img.shields.io/badge/Follow%20on%20X-@jahidhasandev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-jahidhasanwebdev-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+
+<a href="https://www.linkedin.com/in/jahidhasanwebdev/">
+  <img src="https://img.shields.io/badge/LinkedIn-jahidhasanwebdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+
+<a href="https://x.com/jahidhasandev">
+  <img src="https://img.shields.io/badge/X-@jahidhasandev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
+</a>
+
+<img src="https://img.shields.io/badge/Experience-4%20Years-0D9488?style=for-the-badge&logo=clockify&logoColor=white" alt="4 years of experience" />
 </div>
 
 <!-- Add your verified LinkedIn, portfolio, and professional email links here when ready. -->
