@@ -2,6 +2,9 @@
 
 <div align="center">
   <img src="https://github.com/jahidhasanwebdev/jahidhasanwebdev/raw/main/jahid-profile/assets/jahid-banner.png" alt="Jahid Hasan — Web Developer" width="100%" />
+  <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=jahidhasanwebdev&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
   <br />
 
