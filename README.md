@@ -76,7 +76,7 @@ I'm **Jahid Hasan**, a Web Developer with **4 years of experience** building mod
 | Web Design | UI concepts and visual assets with Figma and Adobe tools |
 
 ---
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 <div align="center">
   <table>
     <tr>
@@ -96,6 +96,7 @@ I'm **Jahid Hasan**, a Web Developer with **4 years of experience** building mod
 </div>
 
 Note: These cards are generated from your public GitHub activity. The language card may show “No languages data” until you publish repositories containing code; stats may also take some time to refresh.
+
 ---
 ## 📌 Featured Projects
 
