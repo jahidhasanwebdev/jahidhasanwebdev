@@ -1,7 +1,7 @@
 <!-- ===================== PREMIUM GITHUB PROFILE | JAHID HASAN ===================== -->
 
 <div align="center">
-  <img src="./assets/jahid-banner.png" alt="Jahid Hasan — Web Developer" width="100%" />
+  <img src="https://github.com/jahidhasanwebdev/jahidhasanwebdev/raw/main/jahid-profile/assets/jahid-banner.png" alt="Jahid Hasan — Web Developer" width="100%" />
 
   <br />
 
