@@ -76,7 +76,27 @@ I'm **Jahid Hasan**, a Web Developer with **4 years of experience** building mod
 | Web Design | UI concepts and visual assets with Figma and Adobe tools |
 
 ---
+📊 GitHub Analytics
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasanwebdev&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+      </td>
+      <td valign="top" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=jahidhasanwebdev&show_icons=true&include_all_commits=true&theme=default&hide_border=true&custom_title=Jahid%20Hasan%27s%20GitHub%20Stats" alt="Jahid Hasan's GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com/?user=jahidhasanwebdev&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+Note: These cards are generated from your public GitHub activity. The language card may show “No languages data” until you publish repositories containing code; stats may also take some time to refresh.
+---
 ## 📌 Featured Projects
 
 <!-- Add 3–4 real public repositories here when they are ready.
