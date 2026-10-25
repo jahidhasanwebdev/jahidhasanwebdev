@@ -8,19 +8,43 @@
 
   <br />
 
+
+<div align="center">
+
+  <img src="./assets/jahid-banner.png"
+       alt="Jahid Hasan - Web Developer"
+       width="100%" />
+
+  <br/><br/>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=jahidhasanwebdev&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge"
+    alt="Profile Views"
+  />
+
   <a href="https://github.com/jahidhasanwebdev">
-  <img src="https://img.shields.io/badge/GitHub-jahidhasanwebdev-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 
-<a href="https://www.linkedin.com/in/jahidhasanwebdev/">
-  <img src="https://img.shields.io/badge/LinkedIn-jahidhasanwebdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-</a>
+  <a href="https://www.linkedin.com/in/jahidhasanwebdev/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-<a href="https://x.com/jahidhasandev">
-  <img src="https://img.shields.io/badge/X-@jahidhasandev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
-</a>
+  <a href="https://x.com/jahidhasandev">
+    <img
+      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="X Profile"
+    />
+  </a>
 
-<img src="https://img.shields.io/badge/Experience-4%20Years-0D9488?style=for-the-badge&logo=clockify&logoColor=white" alt="4 years of experience" />
+</div>
+
   <br />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Web+Developer;WordPress+Developer;Frontend+%26+PHP+Developer;Turning+Ideas+into+Web+Experiences" alt="Animated role descriptions" />
