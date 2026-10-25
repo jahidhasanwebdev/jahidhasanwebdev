@@ -10,13 +10,6 @@
 
 
 <div align="center">
-
-  <img src="./assets/jahid-banner.png"
-       alt="Jahid Hasan - Web Developer"
-       width="100%" />
-
-  <br/><br/>
-
   <img
     src="https://komarev.com/ghpvc/?username=jahidhasanwebdev&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge"
     alt="Profile Views"
