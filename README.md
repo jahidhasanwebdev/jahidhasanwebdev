@@ -29,7 +29,7 @@
 I'm **Jahid Hasan**, a Web Developer with **4 years of experience** building modern, responsive, and user-friendly websites. I work with front-end technologies, WordPress, PHP, and MySQL, and I also use visual design tools to shape polished web experiences.
 
 - 💻 **Role:** Web Developer
-- 🧩 **Development:** Front-end development, WordPress, PHP, and MySQL
+- 🧩 **Development:** Front-end development, WordPress, Elementor, PHP, and MySQL
 - 🎨 **Design tools:** Figma, Adobe Illustrator, and Adobe Photoshop
 - 📱 **Focus:** Responsive layouts, clean interfaces, and practical website experiences
 
