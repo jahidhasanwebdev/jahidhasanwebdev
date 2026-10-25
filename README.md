@@ -5,36 +5,21 @@
   <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jahidhasanwebdev&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
-
   <br />
-
-
 <div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=jahidhasanwebdev&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge"
-    alt="Profile Views"
-  />
-
   <a href="https://github.com/jahidhasanwebdev">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-jahidhasanwebdev-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
 
-  <a href="https://www.linkedin.com/in/jahidhasanwebdev/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/jahidhasanwebdev/">
+  <img src="https://img.shields.io/badge/LinkedIn-jahidhasanwebdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
 
-  <a href="https://x.com/jahidhasandev">
-    <img
-      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
-      alt="X Profile"
-    />
-  </a>
+<a href="https://x.com/jahidhasandev">
+  <img src="https://img.shields.io/badge/X-@jahidhasandev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
+</a>
+
+<img src="https://img.shields.io/badge/Experience-4%20Years-0D9488?style=for-the-badge&logo=clockify&logoColor=white" alt="4 years of experience" />
 
 </div>
 
