@@ -108,7 +108,7 @@ Note: These cards are generated from your public GitHub activity. The language c
 <!-- Add 3–4 real public repositories here when they are ready.
      For each project, include its name, a one-line description, tech stack, and live demo (if available).
      Example:
-     - [Project name](https://github.com/jahidhasanwebdev/REPOSITORY) — Short, factual project description. (HTML, CSS, JavaScript)
+     - [Autoparts](https://github.com/jahidhasanwebdev/Autoparts) — AutoParts is a responsive e-commerce HTML template built on Bootstrap 3, designed for auto parts stores, equipment suppliers, and accessory shops. Features 8+ homepage layouts, mega menus, product quick view, and Owl Carousel sliders. Includes clean HTML5, CSS3, and Sass files. (HTML, CSS, JavaScript)
 -->
 
 I'm preparing this profile to showcase selected work. Check my repositories for the latest public projects:
