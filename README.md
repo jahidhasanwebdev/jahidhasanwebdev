@@ -103,65 +103,69 @@ I'm **Jahid Hasan**, a Web Developer with **4 years of experience** building mod
 Note: These cards are generated from your public GitHub activity. The language card may show “No languages data” until you publish repositories containing code; stats may also take some time to refresh.
 
 ---
-## 📌 Featured Projects
 
-<!-- Add 3–4 real public repositories here when they are ready.
-     For each project, include its name, a one-line description, tech stack, and live demo (if available).
-     
-     - Autoparts https://github.com/jahidhasanwebdev/Autoparts — AutoParts is a responsive e-commerce HTML template built on Bootstrap 3, designed for auto parts stores, equipment suppliers, and accessory shops. Features 8+ homepage layouts, mega menus, product quick view, and Owl Carousel sliders. Includes clean HTML5, CSS3, and Sass files. (HTML, CSS, JavaScript)
--->
+<!-- ================= FEATURED PROJECTS ================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
+<p align="center">
+  A selection of my web development projects, showcasing
+  my skills, creativity, and passion for building modern websites.
+</p>
 
-  <h3>🚗 Autoparts – E-commerce HTML Template</h3>
+<br/>
 
-  <p>
-    A modern, responsive e-commerce HTML template designed
-    for auto parts stores, equipment suppliers, and automotive
-    accessory businesses.
-  </p>
+<h3 align="center">🚗 Autoparts — E-commerce HTML Template</h3>
 
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap_3-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  </p>
+<p align="center">
+  A modern and responsive e-commerce HTML template
+  designed for auto parts stores, equipment suppliers,
+  and automotive accessory businesses.
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap_3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
 
 **✨ Key Features**
-- 8+ Homepage Layouts
-- Responsive and Modern Design
-- Mega Menu Navigation
-- Product Quick View
-- Owl Carousel Sliders
-- Clean HTML5, CSS3 and Sass Code
 
-<div align="center">
+- 🏠 8+ Homepage Layouts
+- 📱 Fully Responsive Design
+- 🧭 Mega Menu Navigation
+- 🛒 Product Quick View
+- 🎠 Owl Carousel Sliders
+- 💻 Clean HTML5, CSS3 & Sass Code
+- 🛍️ E-commerce Focused UI
 
+<p align="center">
   <a href="https://github.com/jahidhasanwebdev/Autoparts">
-    <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code" />
   </a>
+</p>
 
-</div>
+<br/>
 
----
+<hr/>
 
-<!-- Add your next real projects below using the same layout. -->
+<h3 align="center">🌐 Explore More Projects</h3>
 
-I'm preparing this profile to showcase selected work. Check my repositories for the latest public projects:
+<p align="center">
+  Explore my GitHub repositories to discover more
+  web development projects and creative work.
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/jahidhasanwebdev?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects" />
   </a>
-</div>
+</p>
 
----
+<!-- ================= END FEATURED PROJECTS ================= -->
+
 
 ## 🤝 Connect
 
