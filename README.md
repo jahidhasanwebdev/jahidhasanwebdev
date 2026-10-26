@@ -111,6 +111,48 @@ Note: These cards are generated from your public GitHub activity. The language c
      - Autoparts https://github.com/jahidhasanwebdev/Autoparts — AutoParts is a responsive e-commerce HTML template built on Bootstrap 3, designed for auto parts stores, equipment suppliers, and accessory shops. Features 8+ homepage layouts, mega menus, product quick view, and Owl Carousel sliders. Includes clean HTML5, CSS3, and Sass files. (HTML, CSS, JavaScript)
 -->
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+  <h3>🚗 Autoparts – E-commerce HTML Template</h3>
+
+  <p>
+    A modern, responsive e-commerce HTML template designed
+    for auto parts stores, equipment suppliers, and automotive
+    accessory businesses.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap_3-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  </p>
+
+</div>
+
+**✨ Key Features**
+- 8+ Homepage Layouts
+- Responsive and Modern Design
+- Mega Menu Navigation
+- Product Quick View
+- Owl Carousel Sliders
+- Clean HTML5, CSS3 and Sass Code
+
+<div align="center">
+
+  <a href="https://github.com/jahidhasanwebdev/Autoparts">
+    <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+<!-- Add your next real projects below using the same layout. -->
+
 I'm preparing this profile to showcase selected work. Check my repositories for the latest public projects:
 
 <div align="center">
