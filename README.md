@@ -81,21 +81,21 @@ I'm **Jahid Hasan**, a Web Developer with **4 years of experience** building mod
 | Web Design | UI concepts and visual assets with Figma and Adobe tools |
 
 ---
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasanwebdev&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jahidhasanwebdev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=jahidhasanwebdev&show_icons=true&include_all_commits=true&theme=default&hide_border=true&custom_title=Jahid%20Hasan's%20GitHub%20Stats" alt="Jahid Hasan's GitHub Stats" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=jahidhasanwebdev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=Jahid%20Hasan's%20GitHub%20Stats" alt="Jahid Hasan's GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=jahidhasanwebdev&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+        <img src="https://streak-stats.demolab.com/?user=jahidhasanwebdev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
       </td>
     </tr>
   </table>
